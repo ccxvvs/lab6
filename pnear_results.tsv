@@ -1,0 +1,14 @@
+strategy	pnear	n_samples
+FastRelax	0.0996	5
+BackRub kt=0.4 nt=1000	0.101	10
+BackRub kt=0.4 nt=10000	0.1005	10
+BackRub kt=0.4 nt=5000	0.1011	10
+BackRub kt=0.7 nt=1000	0.1011	10
+BackRub kt=0.7 nt=10000	0.101	10
+BackRub kt=0.7 nt=5000	0.1012	10
+BackRub kt=1.0 nt=1000	0.0987	10
+BackRub kt=1.0 nt=10000	0.0989	10
+BackRub kt=1.0 nt=5000	0.1012	10
+BackRub kt=1.5 nt=1000	0.101	10
+BackRub kt=1.5 nt=10000	0.1011	10
+BackRub kt=1.5 nt=5000	0.1012	10
